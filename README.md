@@ -13,7 +13,7 @@ Problem statement: To reiterate, the company aims to optimise the workings of pr
 --------------------------------------------------------------------------------------------------------------------------
 Data collection: Understanding the data 
 ![image](https://github.com/Arash-Kamboj/Quality-Assessment-project/assets/156613048/5f649b00-3f6d-4cf1-8439-9eb249318aa1)
-![image](https://github.com/Arash-Kamboj/Quality-Assessment-project/assets/156613048/d7db7a52-94c0-4954-88dc-60a32972d35f)
+
 
 
 Id: Product Id (this is system generated while collecting sample)
