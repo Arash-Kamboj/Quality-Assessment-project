@@ -11,7 +11,8 @@ Objective: To explore the assessment data and provide relevant insights. By tran
 Problem statement: To reiterate, the company aims to optimise the workings of production lines. To accomplish this goal, I need to understand extremes, patterns and associations with applications of probability and distributions.
 
 --------------------------------------------------------------------------------------------------------------------------
-Data collection: Understanding the data 
+**Data collection: Understanding the data**
+
 ![image](https://github.com/Arash-Kamboj/Quality-Assessment-project/assets/156613048/5f649b00-3f6d-4cf1-8439-9eb249318aa1)
 
 
