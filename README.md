@@ -23,7 +23,7 @@ Problem statement: To reiterate, the company aims to optimise the workings of pr
 ---------------------------------------------------------------------------------------------------------------------------
 **Data processing: Cleaning the data**
 
-![image](https://github.com/Arash-Kamboj/Quality-Assessment-project/assets/156613048/56f903e9-0e2f-4ead-87c0-87f30a5fa371)
+![image](https://github.com/Arash-Kamboj/Quality-Assessment-project/assets/156613048/4fcc3798-36df-4d3d-934a-c73cb90e021f)
 
 1. Standardise the Assembly Line column: Make the column consistent so that it has cardinality of 2. 
 2. Remove any empty or incomplete rows: Check if there are any rows with missing data. Substitute these values with the mean of numerical or mode for non-numerical data with respect to individual assembly lines.
