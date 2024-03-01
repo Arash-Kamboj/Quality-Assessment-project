@@ -11,7 +11,10 @@ Objective: To explore the assessment data and provide relevant insights. By tran
 Problem statement: To reiterate, the company aims to optimise the workings of production lines. To accomplish this goal, I need to understand extremes, patterns and associations with applications of probability and distributions.
 
 --------------------------------------------------------------------------------------------------------------------------
-Data collection: Understanding the data ![image](https://github.com/Arash-Kamboj/Quality-Assessment-project/assets/156613048/5f649b00-3f6d-4cf1-8439-9eb249318aa1)
+Data collection: Understanding the data 
+![image](https://github.com/Arash-Kamboj/Quality-Assessment-project/assets/156613048/5f649b00-3f6d-4cf1-8439-9eb249318aa1)
+![image](https://github.com/Arash-Kamboj/Quality-Assessment-project/assets/156613048/d7db7a52-94c0-4954-88dc-60a32972d35f)
+
 
 Id: Product Id (this is system generated while collecting sample)
 Assembly line: There are 2 different assembly lines A and B used for production of beverages.
