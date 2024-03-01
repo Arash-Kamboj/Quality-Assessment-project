@@ -21,8 +21,8 @@ Problem statement: To reiterate, the company aims to optimise the workings of pr
 4. CO2 dissolved: Amount of CO2 for carbonation in gms.
 5. Time limit Crossed: If the time limit has crossed to process the bottle (fill & packaging).
 ---------------------------------------------------------------------------------------------------------------------------
-Data processing: Cleaning the data
-![image](https://github.com/Arash-Kamboj/Quality-Assessment-project/assets/156613048/eb5cb858-4469-4f40-b3b9-45c6cb69ddce)
+**Data processing: Cleaning the data**
+
 ![image](https://github.com/Arash-Kamboj/Quality-Assessment-project/assets/156613048/21418be2-4555-44d7-9244-f124b563660e)
 
 1. Standardise the Assembly Line column: Make the column consistent so that it has cardinality of 2. 
