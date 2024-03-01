@@ -13,7 +13,7 @@ Problem statement: To reiterate, the company aims to optimise the workings of pr
 --------------------------------------------------------------------------------------------------------------------------
 **Data collection: Understanding the data**
 
-![image](https://github.com/Arash-Kamboj/Quality-Assessment-project/assets/156613048/5f649b00-3f6d-4cf1-8439-9eb249318aa1)
+![image](https://github.com/Arash-Kamboj/Quality-Assessment-project/assets/156613048/112e1a9a-ec35-4cbb-9698-09d51a82cc64)
 
 1. Id: Product Id (this is system generated while collecting sample)
 2. Assembly line: There are 2 different assembly lines A and B used for production of beverages.
@@ -22,8 +22,6 @@ Problem statement: To reiterate, the company aims to optimise the workings of pr
 5. Time limit Crossed: If the time limit has crossed to process the bottle (fill & packaging).
 ---------------------------------------------------------------------------------------------------------------------------
 **Data processing: Cleaning the data**
-
-![image](https://github.com/Arash-Kamboj/Quality-Assessment-project/assets/156613048/4fcc3798-36df-4d3d-934a-c73cb90e021f)
 
 1. Standardise the Assembly Line column: Make the column consistent so that it has cardinality of 2. 
 2. Remove any empty or incomplete rows: Check if there are any rows with missing data. Substitute these values with the mean of numerical or mode for non-numerical data with respect to individual assembly lines.
