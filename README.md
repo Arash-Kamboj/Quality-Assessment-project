@@ -1,5 +1,4 @@
-# Quality-Assessment-project   
-![image](https://github.com/Arash-Kamboj/Quality-Assessment-project/assets/156613048/4faf5a17-f194-40ea-b66a-68cd40ab4fe4)
+# Quality-Assessment-project   ![image](https://github.com/Arash-Kamboj/Quality-Assessment-project/assets/156613048/1c3fb82e-2f61-4735-b847-71b6a92a2147)
 
 ------------------------------------------------------------------------------------------------------------------------
 This project is regarding a giant beverage company. Being a quality analyst, my primary object is to assess the production lines and keep them in check over the time to meet the industrial standards. The organisation keeps track of every move of the production lines for instance, the timings, quantity of beverages, etc. 
@@ -13,7 +12,7 @@ Problem statement: To reiterate, the company aims to optimise the workings of pr
 --------------------------------------------------------------------------------------------------------------------------
 **Data collection: Understanding the data**
 
-![image](https://github.com/Arash-Kamboj/Quality-Assessment-project/assets/156613048/112e1a9a-ec35-4cbb-9698-09d51a82cc64)
+![image](https://github.com/Arash-Kamboj/Quality-Assessment-project/assets/156613048/ac0a4799-1337-4d29-b13e-cd92dbc6453a)
 
 1. Id: Product Id (this is system generated while collecting sample)
 2. Assembly line: There are 2 different assembly lines A and B used for production of beverages.
