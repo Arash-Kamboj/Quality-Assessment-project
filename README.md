@@ -1,5 +1,6 @@
-# Quality-Assessment-project   ![image](https://github.com/Arash-Kamboj/Quality-Assessment-project/assets/156613048/1c3fb82e-2f61-4735-b847-71b6a92a2147)
+![image](https://github.com/Arash-Kamboj/Quality-Assessment-project/assets/156613048/1c3fb82e-2f61-4735-b847-71b6a92a2147)
 
+# Quality-Assessment-project  
 ------------------------------------------------------------------------------------------------------------------------
 This project is regarding a giant beverage company. Being a quality analyst, my primary object is to assess the production lines and keep them in check over the time to meet the industrial standards. The organisation keeps track of every move of the production lines for instance, the timings, quantity of beverages, etc. 
 I am tasked with checking if different production lines are pouring the right amount of beverages with proper carbonation in a predefined time. 
