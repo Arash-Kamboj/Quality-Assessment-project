@@ -20,3 +20,11 @@ Problem statement: To reiterate, the company aims to optimise the workings of pr
 3. Quantity (lts.): The amount of beverage filled in the bottle.
 4. CO2 dissolved: Amount of CO2 for carbonation in gms.
 5. Time limit Crossed: If the time limit has crossed to process the bottle (fill & packaging).
+---------------------------------------------------------------------------------------------------------------------------
+Data processing: Cleaning the data
+![image](https://github.com/Arash-Kamboj/Quality-Assessment-project/assets/156613048/eb5cb858-4469-4f40-b3b9-45c6cb69ddce)
+
+1. Standardise the Assembly Line column: Make the column consistent so that it has cardinality of 2. 
+2. Remove any empty or incomplete rows: Check if there are any rows with missing data. Substitute these values with the mean of numerical or mode for non-numerical data with respect to individual assembly lines.
+3. Check for Outliers: Check for outliers in the dataset and does it make logical sense to keep them or should we treat them?
+
