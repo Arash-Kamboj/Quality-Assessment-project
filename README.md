@@ -15,10 +15,8 @@ Problem statement: To reiterate, the company aims to optimise the workings of pr
 
 ![image](https://github.com/Arash-Kamboj/Quality-Assessment-project/assets/156613048/5f649b00-3f6d-4cf1-8439-9eb249318aa1)
 
-
-
-Id: Product Id (this is system generated while collecting sample)
-Assembly line: There are 2 different assembly lines A and B used for production of beverages.
-Quantity (lts.): The amount of beverage filled in the bottle.
-CO2 dissolved: Amount of CO2 for carbonation in gms.
-Time limit Crossed: If the time limit has crossed to process the bottle (fill & packaging).
+1. Id: Product Id (this is system generated while collecting sample)
+2. Assembly line: There are 2 different assembly lines A and B used for production of beverages.
+3. Quantity (lts.): The amount of beverage filled in the bottle.
+4. CO2 dissolved: Amount of CO2 for carbonation in gms.
+5. Time limit Crossed: If the time limit has crossed to process the bottle (fill & packaging).
